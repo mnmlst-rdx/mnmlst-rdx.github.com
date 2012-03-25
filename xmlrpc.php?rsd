@@ -1,0 +1,26 @@
+xml vrsn="1.0" ncdng="UTF-8"?
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+ <service>
+  <enginename>
+   WrdPrss
+  </enginename>
+  <enginelink>
+   http://wrdprss.rg/
+  </enginelink>
+  <homepagelink>
+   http://mnmlst.cm
+  </homepagelink>
+  <apis>
+   <api apilink="http://mnmlist.com/xmlrpc.php" blogid="1" name="WordPress" preferred="true">
+   </api>
+   <api apilink="http://mnmlist.com/xmlrpc.php" blogid="1" name="Movable Type" preferred="false">
+   </api>
+   <api apilink="http://mnmlist.com/xmlrpc.php" blogid="1" name="MetaWeblog" preferred="false">
+   </api>
+   <api apilink="http://mnmlist.com/xmlrpc.php" blogid="1" name="Blogger" preferred="false">
+   </api>
+   <api apilink="http://mnmlist.com/wp-app.php/service" blogid="" name="Atom" preferred="false">
+   </api>
+  </apis>
+ </service>
+</rsd>
