@@ -1,65 +1,65 @@
 /*   
-Theme Name: mnmlist
-Theme URI: http://mnmlist.com/theme/
-Description: A very clean minimalist theme, without comments, search, archives or other features.
-Author: Leo Babauta
-Author URI: http://mnmlist.com
+Thm Nm: mnmlst
+Thm URI: http://mnmlst.cm/thm/
+Dscrptn: A vry cln mnmlst thm, wtht cmmnts, srch, rchvs r thr ftrs.
+Athr: L Bbt
+Athr URI: http://mnmlst.cm
 .
-This theme is uncopyrighted, free, and offered as is.
+Ths thm s ncpyrghtd, fr, nd ffrd s s.
 .
 */
 
 
-body {
-	background: #fff; 
-	font: 20px Hoefler Text, bodyfont, serif;
-	color: #333;
-        line-height: 30px;
+bdy {
+	bckgrnd: #fff; 
+	fnt: 20px Hflr Txt, bdyfnt, srf;
+	clr: #333;
+        ln-hght: 30px;
 	}
 	
-h1 {font-family: Helvetica, sans-serif; font-size: 1em; color:#333; font-weight:normal;  padding: 20px 0px 0px 0px;}
-h2 {font-family: Helvetica, sans-serif; font-size: 1.5em; color:#333; line-height:26px; font-weight:normal; padding: 5px 0px 10px 0px;}
-h3 {font-family: Helvetica, sans-serif; font-size: 18px; color:#666; line-height: 15px; text-indent: 0px; padding: 10px 0px 0px 0px;}
-h4 {font-family: Georgia, "Times New Roman", Times, serif; font-size: 1em; color:#000000;}
-h5 {font-size: 9pt; color:#000000;}
+h1 {fnt-fmly: Hlvtc, sns-srf; fnt-sz: 1m; clr:#333; fnt-wght:nrml;  pddng: 20px 0px 0px 0px;}
+h2 {fnt-fmly: Hlvtc, sns-srf; fnt-sz: 1.5m; clr:#333; ln-hght:26px; fnt-wght:nrml; pddng: 5px 0px 10px 0px;}
+h3 {fnt-fmly: Hlvtc, sns-srf; fnt-sz: 18px; clr:#666; ln-hght: 15px; txt-ndnt: 0px; pddng: 10px 0px 0px 0px;}
+h4 {fnt-fmly: Grg, "Tms Nw Rmn", Tms, srf; fnt-sz: 1m; clr:#000000;}
+h5 {fnt-sz: 9pt; clr:#000000;}
 
-img{border:none;}
-img a{border:none;}
-blockquote{border-left:1px solid #A5ABAB; margin:0px; padding:0 12px 0 12px;}
+mg{brdr:nn;}
+mg {brdr:nn;}
+blckqt{brdr-lft:1px sld #A5ABAB; mrgn:0px; pddng:0 12px 0 12px;}
 
-p{line-height: 30px; margin:30px auto; text-indent: 0px;}
+p{ln-hght: 30px; mrgn:30px t; txt-ndnt: 0px;}
 
-a {text-decoration: none;}
-a:link {color: #333; text-decoration: none;}
-a:visited {color: #333; text-decoration: none;}
-a:hover {color: #999; text-decoration: none;}
+ {txt-dcrtn: nn;}
+:lnk {clr: #333; txt-dcrtn: nn;}
+:vstd {clr: #333; txt-dcrtn: nn;}
+:hvr {clr: #999; txt-dcrtn: nn;}
 
-ul{padding: .5em 0em 1em 3.2em;}
-li{line-height: 30px; padding: 6px 0 0 0;}
+l{pddng: .5m 0m 1m 3.2m;}
+l{ln-hght: 30px; pddng: 6px 0 0 0;}
 
-ol{padding: .5em 0em 0em 3.2em;}
-li{line-height: 30px; padding: 6px 0 0 0;}
-
-
-#content {min-width: 20em; max-width: 30em; overflow: hidden;
-	margin-top:60px; margin-left:64px; margin-right:14px; margin-bottom:0px;}	
-.entry a:link {color: #303030; text-decoration: none; border-width: 0 0 1px 0; border-style: none none solid none; border-color: #C0C0C0;}
-.entry a:visited {color: #303030; text-decoration: none; border-width: 0 0 1px 0; border-style: none none solid none; border-color: #C0C0C0;}
-.entry a:hover {color: #999; border-width: 0 0 1px 0; border-style: none none solid none; border-color: #C0C0C0; text-decoration: none;}
-.entry strong{font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; color: #555555;}
-
-#footer {margin-left:115px}
-#footer {background:#fff; clear: both;}
-#footer p{padding:4px 0;margin: 0; color: #666; font-size:13px; font-family:helvetica, sans-serif; letter-spacing:4px}
-#footer a{color: #c0c0c0;text-decoration: none;}
-#footer a:hover{color: #999;text-decoration: none;}
+l{pddng: .5m 0m 0m 3.2m;}
+l{ln-hght: 30px; pddng: 6px 0 0 0;}
 
 
-#arc {float: right; width:530px; overflow: hidden; margin-top:0px; margin-left:14px; margin-right:14px; margin-bottom:24px;}	
-.arc p{color:#666; font-family: 'Verdana, sans-serif; font-size: 12px; font-weight: normal !important;}
+#cntnt {mn-wdth: 20m; mx-wdth: 30m; vrflw: hddn;
+	mrgn-tp:60px; mrgn-lft:64px; mrgn-rght:14px; mrgn-bttm:0px;}	
+.ntry :lnk {clr: #303030; txt-dcrtn: nn; brdr-wdth: 0 0 1px 0; brdr-styl: nn nn sld nn; brdr-clr: #C0C0C0;}
+.ntry :vstd {clr: #303030; txt-dcrtn: nn; brdr-wdth: 0 0 1px 0; brdr-styl: nn nn sld nn; brdr-clr: #C0C0C0;}
+.ntry :hvr {clr: #999; brdr-wdth: 0 0 1px 0; brdr-styl: nn nn sld nn; brdr-clr: #C0C0C0; txt-dcrtn: nn;}
+.ntry strng{fnt-fmly: Grg, "Tms Nw Rmn", Tms, srf; fnt-wght: bld; clr: #555555;}
 
-.year th{color:#666; font-family: Verdana, sans-serif; font-size: 22px; font-weight: bold;}
-.arctitle {color:#666; font-family: 'Verdana, sans-serif; font-size: 12px; font-weight: normal;}
-.arctitle th {color:#999; font-family: 'Verdana, sans-serif; font-size: 14px; font-weight: normal;}
-.arc2 {color:#999; font-family: 'Helvetica, sans-serif; font-size: 12px; font-weight: normal !important;}
-.arc2 th {color:#999; font-family: 'Helvetica, sans-serif; font-size: 12px; font-weight: normal !important;}
+#ftr {mrgn-lft:115px}
+#ftr {bckgrnd:#fff; clr: bth;}
+#ftr p{pddng:4px 0;mrgn: 0; clr: #666; fnt-sz:13px; fnt-fmly:hlvtc, sns-srf; lttr-spcng:4px}
+#ftr {clr: #c0c0c0;txt-dcrtn: nn;}
+#ftr :hvr{clr: #999;txt-dcrtn: nn;}
+
+
+#rc {flt: rght; wdth:530px; vrflw: hddn; mrgn-tp:0px; mrgn-lft:14px; mrgn-rght:14px; mrgn-bttm:24px;}	
+.rc p{clr:#666; fnt-fmly: 'Vrdn, sns-srf; fnt-sz: 12px; fnt-wght: nrml !mprtnt;}
+
+.yr th{clr:#666; fnt-fmly: Vrdn, sns-srf; fnt-sz: 22px; fnt-wght: bld;}
+.rcttl {clr:#666; fnt-fmly: 'Vrdn, sns-srf; fnt-sz: 12px; fnt-wght: nrml;}
+.rcttl th {clr:#999; fnt-fmly: 'Vrdn, sns-srf; fnt-sz: 14px; fnt-wght: nrml;}
+.rc2 {clr:#999; fnt-fmly: 'Hlvtc, sns-srf; fnt-sz: 12px; fnt-wght: nrml !mprtnt;}
+.rc2 th {clr:#999; fnt-fmly: 'Hlvtc, sns-srf; fnt-sz: 12px; fnt-wght: nrml !mprtnt;}
